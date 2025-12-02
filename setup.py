@@ -1,4 +1,3 @@
-from setuptools import find_packages
 exec(open('simple_rl/_version.py').read())
 setup(
   name = 'simple_rl',
