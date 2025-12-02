@@ -1,5 +1,3 @@
-from distutils.core import setup
-from setuptools import find_packages
 exec(open('simple_rl/_version.py').read())
 setup(
   name = 'simple_rl',
@@ -15,3 +13,4 @@ setup(
   keywords = ['Markov Decision Process', 'MDP', 'Reinforcement Learning'],
   classifiers = [],
 )
+# auto-comment Tue 12/02/2025 12:11:28 (feature/auth-4616) 
