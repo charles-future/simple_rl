@@ -1,4 +1,3 @@
-setup(
   name = 'simple_rl',
   packages = find_packages(),
   scripts=['simple_rl/run_experiments.py'],
