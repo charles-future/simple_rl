@@ -1,4 +1,3 @@
-exec(open('simple_rl/_version.py').read())
 setup(
   name = 'simple_rl',
   packages = find_packages(),
