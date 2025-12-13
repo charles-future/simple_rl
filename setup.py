@@ -1,4 +1,3 @@
-  packages = find_packages(),
   scripts=['simple_rl/run_experiments.py'],
   version=__version__,
   description = 'A simple framework for experimenting with Reinforcement Learning in Python.',
