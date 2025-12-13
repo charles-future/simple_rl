@@ -1,4 +1,3 @@
-  name = 'simple_rl',
   packages = find_packages(),
   scripts=['simple_rl/run_experiments.py'],
   version=__version__,
