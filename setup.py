@@ -1,4 +1,3 @@
-  long_description = 'A simple framework for experimenting with Reinforcement Learning in Python.',
   author = 'David Abel',
   author_email = 'david_abel@brown.edu',
   url = 'https://github.com/david-abel/simple_rl',
