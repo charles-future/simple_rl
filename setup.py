@@ -1,4 +1,3 @@
-  download_url = 'https://github.com/david-abel/simple_rl/tarball/' + str(__version__),
   keywords = ['Markov Decision Process', 'MDP', 'Reinforcement Learning'],
   classifiers = [],
 )
